@@ -26,7 +26,7 @@ body{
     }
     #href2{
         color:azure;
-        position:relative; top: 30px; left: 150px;
+        position:relative; top: 30px; left: 180px;
     }
     h9{
         color:azure;
@@ -49,7 +49,7 @@ body{
     }
     #href4{
         color:azure;
-        position:relative; top: 91px; left:160px;
+        position:relative; top: 91px; left:180px;
     }
     h23{
         color:azure;
@@ -71,6 +71,6 @@ body{
         font-size:20
     }
     #href6{
-        position:relative; top:127px; left:-1190;
+        position:relative; top:127px; left:-1100;
         font-size: 20
     }
